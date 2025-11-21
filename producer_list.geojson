@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thunder Plains Bison",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo1.png",
+        "address": "456 Prairie Rd, Billings, MT 59101",
+        "producer-site": "http://thunderplainsbison.com",
+        "initiative-site": "bisoninitiative.com/producers/Thunder-Plains-Bison",
+        "email": "info@thunderplainsbison.com",
+        "phone": "+14065551234",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo1.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Family-owned ranch in Montana specializing in sustainable bison farming since 1985. We focus on grass-fed practices and regenerative agriculture.",
+        "product-listings": [
+          {
+            "title": "Bison Tenderloin (8oz)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/tenderloin.jpg",
+            "link": "http://thunderplainsbison.com/products/tenderloin"
+          },
+          {
+            "title": "Bison Jerky Pack",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/jerky.jpg",
+            "link": "http://thunderplainsbison.com/products/jerky"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Thunder-Plains-Bison/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo1.png",
+        "tier": "unclaimed"
+      },
+      "geometry": {
+        "coordinates": [-108.5007, 45.7833],
+        "type": "Point"
+      },
+      "id": "fake1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Great Plains Grazers",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo2.png",
+        "address": "789 Herd Ln, Omaha, NE 68102",
+        "producer-site": "http://greatplainsgrazers.com",
+        "initiative-site": "bisoninitiative.com/producers/Great-Plains-Grazers",
+        "email": "contact@greatplainsgrazers.com",
+        "phone": "+14025556789",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo2.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Regenerative bison operation in Nebraska, emphasizing soil health and wildlife conservation.",
+        "product-listings": [
+          {
+            "title": "Bison Burger Patties (4-pack)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/burgers.jpg",
+            "link": "http://greatplainsgrazers.com/products/burgers"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Great-Plains-Grazers/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo2.png",
+        "tier": "standard"
+      },
+      "geometry": {
+        "coordinates": [-95.9345, 41.2565],
+        "type": "Point"
+      },
+      "id": "fake2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wild West Bison Ranch",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo3.png",
+        "address": "1010 Frontier Ave, Cheyenne, WY 82001",
+        "producer-site": "http://wildwestbison.com",
+        "initiative-site": "bisoninitiative.com/producers/Wild-West-Bison-Ranch",
+        "email": "sales@wildwestbison.com",
+        "phone": "+13075550123",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo3.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Wyoming-based bison ranch committed to ethical raising and premium cuts.",
+        "product-listings": [
+          {
+            "title": "Bison Brisket (5lb)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/brisket.jpg",
+            "link": "http://wildwestbison.com/products/brisket"
+          },
+          {
+            "title": "Bison Sausage Links",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/sausage.jpg",
+            "link": "http://wildwestbison.com/products/sausage"
+          },
+          {
+            "title": "Bison Hide Rug",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/rug.jpg",
+            "link": "http://wildwestbison.com/products/rug"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Wild-West-Bison-Ranch/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo3.png",
+        "tier": "featured"
+      },
+      "geometry": {
+        "coordinates": [-104.8202, 41.14],
+        "type": "Point"
+      },
+      "id": "fake3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rocky Mountain Herd",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo4.png",
+        "address": "2222 Summit Dr, Denver, CO 80202",
+        "producer-site": "http://rockymountainherd.com",
+        "initiative-site": "bisoninitiative.com/producers/Rocky-Mountain-Herd",
+        "email": "herd@rockymountain.com",
+        "phone": "+13035554567",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo4.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Colorado ranch offering high-altitude grass-fed bison with a focus on quality.",
+        "product-listings": [],
+        "product-listings-site": "bisoninitiative.com/producers/Rocky-Mountain-Herd/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo4.png",
+        "tier": "premium"
+      },
+      "geometry": {
+        "coordinates": [-104.9903, 39.7392],
+        "type": "Point"
+      },
+      "id": "fake4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Prairie Wind Bison",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo5.png",
+        "address": "3333 Windy Way, Fargo, ND 58102",
+        "producer-site": "http://prairiewindbison.com",
+        "initiative-site": "bisoninitiative.com/producers/Prairie-Wind-Bison",
+        "email": "wind@prairiewind.com",
+        "phone": "+17015558901",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo5.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "North Dakota operation dedicated to sustainable bison herds.",
+        "product-listings": [
+          {
+            "title": "Bison Roast (3lb)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/roast.jpg",
+            "link": "http://prairiewindbison.com/products/roast"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Prairie-Wind-Bison/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo5.png",
+        "tier": "unclaimed"
+      },
+      "geometry": {
+        "coordinates": [-96.7898, 46.8772],
+        "type": "Point"
+      },
+      "id": "fake5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buffalo Valley Farms",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo6.png",
+        "address": "4444 Valley Blvd, Salt Lake City, UT 84101",
+        "producer-site": "http://buffalovalleyfarms.com",
+        "initiative-site": "bisoninitiative.com/producers/Buffalo-Valley-Farms",
+        "email": "valley@buffalovalley.com",
+        "phone": "+18015552345",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo6.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Utah-based bison farm with a commitment to organic methods.",
+        "product-listings": [
+          {
+            "title": "Bison Liver (1lb)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/liver.jpg",
+            "link": "http://buffalovalleyfarms.com/products/liver"
+          },
+          {
+            "title": "Bison Bone Broth",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/broth.jpg",
+            "link": "http://buffalovalleyfarms.com/products/broth"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Buffalo-Valley-Farms/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo6.png",
+        "tier": "standard"
+      },
+      "geometry": {
+        "coordinates": [-111.891, 40.7608],
+        "type": "Point"
+      },
+      "id": "fake6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heritage Bison Co",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo7.png",
+        "address": "5555 Heritage St, Austin, TX 78701",
+        "producer-site": "http://heritagebisonco.com",
+        "initiative-site": "bisoninitiative.com/producers/Heritage-Bison-Co",
+        "email": "heritage@heritagebisonco.com",
+        "phone": "+15125556789",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo7.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Texas ranch preserving heritage bison breeds through ethical farming.",
+        "product-listings": [
+          {
+            "title": "Bison Sirloin (10oz)",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/sirloin.jpg",
+            "link": "http://heritagebisonco.com/products/sirloin"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Heritage-Bison-Co/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo7.png",
+        "tier": "featured"
+      },
+      "geometry": {
+        "coordinates": [-97.7431, 30.2672],
+        "type": "Point"
+      },
+      "id": "fake7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sunset Bison Ranch",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo8.png",
+        "address": "6666 Sunset Blvd, Los Angeles, CA 90028",
+        "producer-site": "http://sunsetbisonranch.com",
+        "initiative-site": "bisoninitiative.com/producers/Sunset-Bison-Ranch",
+        "email": "sunset@sunsetbisonranch.com",
+        "phone": "+13105550123",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo8.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "California coastal bison ranch with a focus on premium, ocean-influenced grazing.",
+        "product-listings": [
+          {
+            "title": "Bison Filet Mignon",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/filet.jpg",
+            "link": "http://sunsetbisonranch.com/products/filet"
+          },
+          {
+            "title": "Bison Leather Wallet",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/wallet.jpg",
+            "link": "http://sunsetbisonranch.com/products/wallet"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Sunset-Bison-Ranch/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo8.png",
+        "tier": "premium"
+      },
+      "geometry": {
+        "coordinates": [-118.2437, 34.0522],
+        "type": "Point"
+      },
+      "id": "fake8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastern Bison Meadows",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo9.png",
+        "address": "7777 Meadow Rd, Chicago, IL 60601",
+        "producer-site": "http://easternbisonmeadows.com",
+        "initiative-site": "bisoninitiative.com/producers/Eastern-Bison-Meadows",
+        "email": "meadows@easternbison.com",
+        "phone": "+13125554567",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-photo9.jpg",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Illinois farm bringing bison back to the Midwest prairies.",
+        "product-listings": [
+          {
+            "title": "Bison Chuck Roast",
+            "image": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/chuck.jpg",
+            "link": "http://easternbisonmeadows.com/products/chuck"
+          }
+        ],
+        "product-listings-site": "bisoninitiative.com/producers/Eastern-Bison-Meadows/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/placeholder-logo9.png",
+        "tier": "unclaimed"
+      },
+      "geometry": {
+        "coordinates": [-87.6298, 41.8781],
+        "type": "Point"
+      },
+      "id": "fake9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Days of Thunder Cattle Co",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "address": "11111 Cattle St",
+        "producer-site": "http://www.daysofthundercattleco.com",
+        "initiative-site": "bisoninitiative.com/producers/Days-Of-Thunder-Cattle-Co",
+        "email": "daysofthundercattleco@gmail.com",
+        "phone": "+15555555555",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Our 240-acre farm is located just north of Lincoln, Arkansas, in the southern part of the Ozarks. The farm was originally established in the 1850s.  Herbert and Marilyn Weyl, our parents, purchased the farm in 1965. Today it’s divided almost evenly between open pasture for grazing and woodlands used for foraging by cattle, livestock, and poultry.  We offer beef from Angus, Hereford, and other breeds—raised using grass, hay, and silvopasture methods. All processing is done through USDA-inspected or custom-exempt facilities, with dry-aging and vacuum-sealing for maximum quality.  Whether you're picking up at a local retail store or investing in a herdshare, we offer a variety of flexible options to fit your family's needs.",
+        "product-listings": [],
+        "product-listings-site": "bisoninitiative.com/producers/Days-Of-Thunder-Cattle-Co/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "tier": "\"premium\""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.715532,
+          35.041869
+        ],
+        "type": "Point"
+      },
+      "id": "0d216ddfdc61f180e5b3fd24642702de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Days of Thunder Bison Co",
+        "square-logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "address": "11111 Bison St",
+        "producer-site": "http://www.daysofthunderbisonco.com",
+        "initiative-site": "bisoninitiative.com/producers/Days-Of-Thunder-Bison-Co",
+        "email": "daysofthunderbisonco@gmail.com",
+        "phone": "+15555555555",
+        "personal-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "headshot-photo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "Description": "Our 240-acre farm is located just north of Lincoln, Arkansas, in the southern part of the Ozarks. The farm was originally established in the 1850s.  Herbert and Marilyn Weyl, our parents, purchased the farm in 1965. Today it’s divided almost evenly between open pasture for grazing and woodlands used for foraging by cattle, livestock, and poultry.  We offer beef from Angus, Hereford, and other breeds—raised using grass, hay, and silvopasture methods. All processing is done through USDA-inspected or custom-exempt facilities, with dry-aging and vacuum-sealing for maximum quality.  Whether you're picking up at a local retail store or investing in a herdshare, we offer a variety of flexible options to fit your family's needs.",
+        "product-listings": [],
+        "product-listings-site": "bisoninitiative.com/producers/Days-Of-Thunder-Bison-Co/products",
+        "logo": "https://images.squarespace-cdn.com/content/v1/68c05320d0d5d9641a7b4f36/8bcde850-f1ad-4779-9d23-06c6a58dffae/185698.png",
+        "tier": "\"premium\""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.715951,
+          35.041727
+        ],
+        "type": "Point"
+      },
+      "id": "d9b279b741282559201f382d9e8d9d0d"
+    }
+  ]
+}
